@@ -1,0 +1,16 @@
+html{
+	font:normal normal 14 'microsoft YaHei', sans-serif
+	color:#333;font-weight: bold;
+}
+body,h2,ul,ol,dl,p{
+	margin:0;
+	padding: 0;
+
+}
+ul,li,dl,ol{
+	list-style: none;
+}
+a{
+color: #333;
+text-decoration:none;
+}
